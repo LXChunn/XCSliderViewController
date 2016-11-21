@@ -15,13 +15,13 @@
 		735C526D1DE2DBF300FE2224 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 735C526B1DE2DBF300FE2224 /* LaunchScreen.storyboard */; };
 		735C52781DE2DBF300FE2224 /* sliderDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52771DE2DBF300FE2224 /* sliderDemoTests.m */; };
 		735C52831DE2DBF300FE2224 /* sliderDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52821DE2DBF300FE2224 /* sliderDemoUITests.m */; };
-		735C529B1DE2DC1B00FE2224 /* Root.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 735C52901DE2DC1B00FE2224 /* Root.storyboard */; };
-		735C529C1DE2DC1B00FE2224 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52921DE2DC1B00FE2224 /* RootViewController.m */; };
-		735C529D1DE2DC1B00FE2224 /* LeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52941DE2DC1B00FE2224 /* LeftMenuViewController.m */; };
-		735C529E1DE2DC1B00FE2224 /* RightMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52961DE2DC1B00FE2224 /* RightMenuViewController.m */; };
-		735C529F1DE2DC1B00FE2224 /* ExampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52981DE2DC1B00FE2224 /* ExampleViewController.m */; };
-		735C52A21DE2DC2E00FE2224 /* XCRESideMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52A11DE2DC2E00FE2224 /* XCRESideMenuViewController.m */; };
-		735C52A51DE2DE3D00FE2224 /* XCBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 735C52A41DE2DE3D00FE2224 /* XCBaseViewController.m */; };
+		73AE09331DE2F00B007E592C /* XCBaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73AE09301DE2F00B007E592C /* XCBaseViewController.m */; };
+		73AE09341DE2F00B007E592C /* XCRESideMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73AE09321DE2F00B007E592C /* XCRESideMenuViewController.m */; };
+		73AE09401DE2F05E007E592C /* Root.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73AE09361DE2F05E007E592C /* Root.storyboard */; };
+		73AE09411DE2F05E007E592C /* ExampleViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73AE09391DE2F05E007E592C /* ExampleViewController.m */; };
+		73AE09421DE2F05E007E592C /* LeftMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73AE093B1DE2F05E007E592C /* LeftMenuViewController.m */; };
+		73AE09431DE2F05E007E592C /* RightMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73AE093D1DE2F05E007E592C /* RightMenuViewController.m */; };
+		73AE09441DE2F05E007E592C /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73AE093F1DE2F05E007E592C /* RootViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,19 +58,19 @@
 		735C527E1DE2DBF300FE2224 /* sliderDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sliderDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		735C52821DE2DBF300FE2224 /* sliderDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = sliderDemoUITests.m; sourceTree = "<group>"; };
 		735C52841DE2DBF300FE2224 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		735C52901DE2DC1B00FE2224 /* Root.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Root.storyboard; sourceTree = "<group>"; };
-		735C52911DE2DC1B00FE2224 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
-		735C52921DE2DC1B00FE2224 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
-		735C52931DE2DC1B00FE2224 /* LeftMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftMenuViewController.h; sourceTree = "<group>"; };
-		735C52941DE2DC1B00FE2224 /* LeftMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftMenuViewController.m; sourceTree = "<group>"; };
-		735C52951DE2DC1B00FE2224 /* RightMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightMenuViewController.h; sourceTree = "<group>"; };
-		735C52961DE2DC1B00FE2224 /* RightMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightMenuViewController.m; sourceTree = "<group>"; };
-		735C52971DE2DC1B00FE2224 /* ExampleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController.h; sourceTree = "<group>"; };
-		735C52981DE2DC1B00FE2224 /* ExampleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController.m; sourceTree = "<group>"; };
-		735C52A01DE2DC2E00FE2224 /* XCRESideMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XCRESideMenuViewController.h; path = ../XCRESideMenuViewController.h; sourceTree = "<group>"; };
-		735C52A11DE2DC2E00FE2224 /* XCRESideMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XCRESideMenuViewController.m; path = ../XCRESideMenuViewController.m; sourceTree = "<group>"; };
-		735C52A31DE2DE3D00FE2224 /* XCBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XCBaseViewController.h; path = "../../../APP/Source/iOS/MVVM-ViewModel-NetWork-Model/Modules/RootModule/ViewController/XCBaseViewController.h"; sourceTree = "<group>"; };
-		735C52A41DE2DE3D00FE2224 /* XCBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XCBaseViewController.m; path = "../../../APP/Source/iOS/MVVM-ViewModel-NetWork-Model/Modules/RootModule/ViewController/XCBaseViewController.m"; sourceTree = "<group>"; };
+		73AE092F1DE2F00B007E592C /* XCBaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCBaseViewController.h; sourceTree = "<group>"; };
+		73AE09301DE2F00B007E592C /* XCBaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCBaseViewController.m; sourceTree = "<group>"; };
+		73AE09311DE2F00B007E592C /* XCRESideMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XCRESideMenuViewController.h; sourceTree = "<group>"; };
+		73AE09321DE2F00B007E592C /* XCRESideMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XCRESideMenuViewController.m; sourceTree = "<group>"; };
+		73AE09361DE2F05E007E592C /* Root.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Root.storyboard; sourceTree = "<group>"; };
+		73AE09381DE2F05E007E592C /* ExampleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleViewController.h; sourceTree = "<group>"; };
+		73AE09391DE2F05E007E592C /* ExampleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleViewController.m; sourceTree = "<group>"; };
+		73AE093A1DE2F05E007E592C /* LeftMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LeftMenuViewController.h; sourceTree = "<group>"; };
+		73AE093B1DE2F05E007E592C /* LeftMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LeftMenuViewController.m; sourceTree = "<group>"; };
+		73AE093C1DE2F05E007E592C /* RightMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RightMenuViewController.h; sourceTree = "<group>"; };
+		73AE093D1DE2F05E007E592C /* RightMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RightMenuViewController.m; sourceTree = "<group>"; };
+		73AE093E1DE2F05E007E592C /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		73AE093F1DE2F05E007E592C /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,8 +121,8 @@
 		735C525C1DE2DBF300FE2224 /* sliderDemo */ = {
 			isa = PBXGroup;
 			children = (
+				73AE09351DE2F05E007E592C /* RootModule */,
 				735C52A61DE2DF0C00FE2224 /* Core */,
-				735C529A1DE2DC1B00FE2224 /* RootModule */,
 				735C52601DE2DBF300FE2224 /* AppDelegate.h */,
 				735C52611DE2DBF300FE2224 /* AppDelegate.m */,
 				735C52631DE2DBF300FE2224 /* ViewController.h */,
@@ -162,40 +162,39 @@
 			path = sliderDemoUITests;
 			sourceTree = "<group>";
 		};
-		735C52991DE2DC1B00FE2224 /* ViewController */ = {
-			isa = PBXGroup;
-			children = (
-				735C52911DE2DC1B00FE2224 /* RootViewController.h */,
-				735C52921DE2DC1B00FE2224 /* RootViewController.m */,
-				735C52931DE2DC1B00FE2224 /* LeftMenuViewController.h */,
-				735C52941DE2DC1B00FE2224 /* LeftMenuViewController.m */,
-				735C52951DE2DC1B00FE2224 /* RightMenuViewController.h */,
-				735C52961DE2DC1B00FE2224 /* RightMenuViewController.m */,
-				735C52971DE2DC1B00FE2224 /* ExampleViewController.h */,
-				735C52981DE2DC1B00FE2224 /* ExampleViewController.m */,
-			);
-			path = ViewController;
-			sourceTree = "<group>";
-		};
-		735C529A1DE2DC1B00FE2224 /* RootModule */ = {
-			isa = PBXGroup;
-			children = (
-				735C52901DE2DC1B00FE2224 /* Root.storyboard */,
-				735C52991DE2DC1B00FE2224 /* ViewController */,
-			);
-			name = RootModule;
-			path = "../../APP/Source/iOS/MVVM-ViewModel-NetWork-Model/Modules/RootModule";
-			sourceTree = "<group>";
-		};
 		735C52A61DE2DF0C00FE2224 /* Core */ = {
 			isa = PBXGroup;
 			children = (
-				735C52A31DE2DE3D00FE2224 /* XCBaseViewController.h */,
-				735C52A41DE2DE3D00FE2224 /* XCBaseViewController.m */,
-				735C52A01DE2DC2E00FE2224 /* XCRESideMenuViewController.h */,
-				735C52A11DE2DC2E00FE2224 /* XCRESideMenuViewController.m */,
+				73AE092F1DE2F00B007E592C /* XCBaseViewController.h */,
+				73AE09301DE2F00B007E592C /* XCBaseViewController.m */,
+				73AE09311DE2F00B007E592C /* XCRESideMenuViewController.h */,
+				73AE09321DE2F00B007E592C /* XCRESideMenuViewController.m */,
 			);
 			path = Core;
+			sourceTree = "<group>";
+		};
+		73AE09351DE2F05E007E592C /* RootModule */ = {
+			isa = PBXGroup;
+			children = (
+				73AE09361DE2F05E007E592C /* Root.storyboard */,
+				73AE09371DE2F05E007E592C /* ViewController */,
+			);
+			path = RootModule;
+			sourceTree = "<group>";
+		};
+		73AE09371DE2F05E007E592C /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				73AE09381DE2F05E007E592C /* ExampleViewController.h */,
+				73AE09391DE2F05E007E592C /* ExampleViewController.m */,
+				73AE093A1DE2F05E007E592C /* LeftMenuViewController.h */,
+				73AE093B1DE2F05E007E592C /* LeftMenuViewController.m */,
+				73AE093C1DE2F05E007E592C /* RightMenuViewController.h */,
+				73AE093D1DE2F05E007E592C /* RightMenuViewController.m */,
+				73AE093E1DE2F05E007E592C /* RootViewController.h */,
+				73AE093F1DE2F05E007E592C /* RootViewController.m */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -303,7 +302,7 @@
 			files = (
 				735C526D1DE2DBF300FE2224 /* LaunchScreen.storyboard in Resources */,
 				735C526A1DE2DBF300FE2224 /* Assets.xcassets in Resources */,
-				735C529B1DE2DC1B00FE2224 /* Root.storyboard in Resources */,
+				73AE09401DE2F05E007E592C /* Root.storyboard in Resources */,
 				735C52681DE2DBF300FE2224 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -329,14 +328,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				735C529E1DE2DC1B00FE2224 /* RightMenuViewController.m in Sources */,
 				735C52651DE2DBF300FE2224 /* ViewController.m in Sources */,
-				735C52A21DE2DC2E00FE2224 /* XCRESideMenuViewController.m in Sources */,
-				735C52A51DE2DE3D00FE2224 /* XCBaseViewController.m in Sources */,
+				73AE09341DE2F00B007E592C /* XCRESideMenuViewController.m in Sources */,
 				735C52621DE2DBF300FE2224 /* AppDelegate.m in Sources */,
-				735C529C1DE2DC1B00FE2224 /* RootViewController.m in Sources */,
-				735C529D1DE2DC1B00FE2224 /* LeftMenuViewController.m in Sources */,
-				735C529F1DE2DC1B00FE2224 /* ExampleViewController.m in Sources */,
+				73AE09411DE2F05E007E592C /* ExampleViewController.m in Sources */,
+				73AE09421DE2F05E007E592C /* LeftMenuViewController.m in Sources */,
+				73AE09441DE2F05E007E592C /* RootViewController.m in Sources */,
+				73AE09331DE2F00B007E592C /* XCBaseViewController.m in Sources */,
+				73AE09431DE2F05E007E592C /* RightMenuViewController.m in Sources */,
 				735C525F1DE2DBF300FE2224 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -561,6 +560,7 @@
 				735C52891DE2DBF300FE2224 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		735C528A1DE2DBF300FE2224 /* Build configuration list for PBXNativeTarget "sliderDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -569,6 +569,7 @@
 				735C528C1DE2DBF300FE2224 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		735C528D1DE2DBF300FE2224 /* Build configuration list for PBXNativeTarget "sliderDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -577,6 +578,7 @@
 				735C528F1DE2DBF300FE2224 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
